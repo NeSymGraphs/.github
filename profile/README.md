@@ -10,7 +10,7 @@ Feel free to contact us for the following maintainence:
 
 :heavy_plus_sign: If you would like us to add GitHub repository containing a published method for neurosymbolic reasoning on graph structures
 
-:heavy_plus_sign: If you'd like us to fork a more recent version of your repository than we have here
+:arrows_counterclockwise: If you'd like us to fork a more recent version of your repository than we have here
 
 ### Contact Information:
 
