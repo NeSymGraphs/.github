@@ -36,7 +36,7 @@ To read more, our paper is currently on arxiv.
 
 ## Contact
 
-Feel free to contact us for the following maintainence:
+Feel free to contact us for the following maintenance:
 
 :heavy_plus_sign: If you would like us to add GitHub repository containing a published method for neurosymbolic reasoning on graph structures
 
