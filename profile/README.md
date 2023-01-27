@@ -8,7 +8,7 @@ This is the Github organization where we fork all the GitHub repositories featur
 
 In this paper, we break these methods down into the following hierarchy:
 
-![hierarchy](Screenshot from 2023-01-27 15-53-50.png)
+![hierarchy](./Screenshot from 2023-01-27 15-53-50.png)
 
 ## Contact
 
