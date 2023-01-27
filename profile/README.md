@@ -32,6 +32,8 @@ Finally, methods which **Learn Rules for Graph Reasoning** often learn rule conf
 
 ![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
 
+To read more, our paper is currently on arxiv. 
+
 ## Contact
 
 Feel free to contact us for the following maintainence:
