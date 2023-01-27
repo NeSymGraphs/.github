@@ -8,7 +8,7 @@ This is the Github organization where we fork all the GitHub repositories featur
 
 In this paper, we break these methods down into the following hierarchy:
 
-![hierarchy](../sample.png)
+![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
 
 ## Contact
 
