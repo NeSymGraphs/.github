@@ -10,27 +10,19 @@ In this paper, we survey the methods which combine symbolic methods with deep le
 
 We break these methods down into the following hierarchy:
 
-**Figure to come**
-
-![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
+![hierarchy](https://github.com/hdj2ld/.github/blob/main/hierarchy.png)
 
 **Logically-Informed Embedding Approaches** are the most straightforward: they augment a graph with logical inference, and then feed the augmented graph into a Knowledge Graph embedding method to learn patterns and make predictions:
 
-**Figure to come**
-
-![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
+![cat1](https://github.com/hdj2ld/.github/blob/main/cat1.png)
 
 The methods under **Learning with Logical Constraints** essentially restrict the training of some sort of graph embedding method with logic. They typically accomplish this by imposing some sort of regularizing transformation on the embedding space or by imposing a penalty term onto the loss function whenever logical rules are violated:
 
-**Figure to come**
-
-![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
+![cat2](https://github.com/hdj2ld/.github/blob/main/cat2.png)
 
 Finally, methods which **Learn Rules for Graph Reasoning** often learn rule confidences, or weights, using an iterative, back-and-forth method. In many of these cases, the model interchangeably trains a graph embedding method and performs logical inference. The results of the embedding method are used to update the weights of the rule base, and the results of logical inference are used to guide the embedding method. Some of these methods even alter the pool of rules so that each iteration has a different rule set:
 
-**Figure to come**
-
-![hierarchy](https://github.com/hdj2ld/.github/blob/main/sample.png)
+![cat3](https://github.com/hdj2ld/.github/blob/main/cat3.png)
 
 To read more, our paper is currently on arxiv. 
 
