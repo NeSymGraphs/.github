@@ -2,7 +2,7 @@
 
 This is the Github organization where we fork all the GitHub repositories featured in our survey paper, 
 
-*Neurosymbolic AI for Reasoning on Graph Structures: A Survey*
+[*Neurosymbolic AI for Reasoning on Graph Structures: A Survey*](https://arxiv.org/abs/2302.07200)
 
 ## Summary:
 
@@ -24,7 +24,7 @@ Finally, methods which **Learn Rules for Graph Reasoning** often learn rule conf
 
 ![cat3](https://github.com/hdj2ld/.github/blob/main/cat3.png)
 
-To read more, our paper is currently on arxiv. 
+To read more, our paper is currently on [arxiv](https://arxiv.org/abs/2302.07200). 
 
 ## Contact
 
