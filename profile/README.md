@@ -4,9 +4,13 @@ This is the Github organization where we fork all the GitHub repositories featur
 
 [*Neurosymbolic AI for Reasoning over Knowledge Graphs: A Survey*](https://arxiv.org/abs/2302.07200)
 
+## News :newspaper:
+
+:mag: Our blog post, summarizing this paper with a crime scene analogy, is now on [AIHub](https://aihub.org/2023/03/23/neurosymbolic-ai-for-graphs-a-crime-scene-analogy/).
+
 ## Summary:
 
-In this paper, we survey the methods which combine symbolic methods with deep learning to accomplish reasoning tasks over graph structures. This hybrid style is called **neurosymbolic AI** :robot: , a relatively new type of AI.
+:thinking: In this paper, we survey the methods which combine symbolic methods with deep learning to accomplish reasoning tasks over graph structures. This hybrid style is called **neurosymbolic AI** :robot: , a relatively new type of AI.
 
 We break these methods down into the following hierarchy:
 
