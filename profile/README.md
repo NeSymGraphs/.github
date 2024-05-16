@@ -8,6 +8,8 @@ This is the Github organization where we fork all the GitHub repositories featur
 
 :mag: Our blog post, summarizing this paper with a crime scene analogy, is now on [AIHub](https://aihub.org/2023/03/23/neurosymbolic-ai-for-graphs-a-crime-scene-analogy/).
 
+:dna: An abridged, biomedical version of this survey was presented as a (non-archival) workshop paper at [ICML 2023](https://klr-icml2023.github.io/papers.html).
+
 ## Summary:
 
 :thinking: In this paper, we survey the methods which combine symbolic methods with deep learning to accomplish reasoning tasks over graph structures. This hybrid style is called **neurosymbolic AI** :robot: , a relatively new type of AI.
