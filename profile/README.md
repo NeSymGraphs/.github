@@ -8,7 +8,7 @@ This is the Github organization where we fork all the GitHub repositories featur
 
 :mag: Our blog post, summarizing this paper with a crime scene analogy, is now on [AIHub](https://aihub.org/2023/03/23/neurosymbolic-ai-for-graphs-a-crime-scene-analogy/).
 
-:dna: An abridged, biomedical version of this survey was presented as a (non-archival) workshop paper at [ICML 2023](https://klr-icml2023.github.io/papers.html).
+:dna: An abridged, biomedical version of this survey was presented as a (non-archival) workshop paper at [ICML 2023's Workshop on Knowledge and Logical Reasoning in the Era of Data-driven Learning](https://klr-icml2023.github.io/papers.html).
 
 ## Summary:
 
