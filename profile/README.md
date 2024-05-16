@@ -1,4 +1,5 @@
-# Neurosymbolic AI for Reasoning over Knowledge Graphs: The GitHub Organization
+# Neurosymbolic AI for Reasoning over Knowledge Graphs: 
+# The GitHub Organization
 
 This is the Github organization where we fork all the GitHub repositories featured in our survey paper, 
 
