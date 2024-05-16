@@ -40,6 +40,6 @@ Feel free to contact us for the following maintenance:
 
 ### Contact Information:
 
-:woman_technologist: [Lauren Nicole DeLong](https://github.com/laurendelong21)
+:woman_technologist: [Lauren Nicole DeLong](https://laurendelong21.github.io/)
 
 :mailbox_with_mail: L.N.DELONG@sms.ed.ac.uk
