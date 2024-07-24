@@ -2,7 +2,22 @@
 
 This is the Github organization where we fork all the GitHub repositories featured in our survey paper, 
 
-[*Neurosymbolic AI for Reasoning over Knowledge Graphs: A Survey*](https://arxiv.org/abs/2302.07200)
+[L. N. DeLong, R. F. Mir and J. D. Fleuriot, *"Neurosymbolic AI for Reasoning Over Knowledge Graphs: A Survey,"* in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2024.3420218.](https://ieeexplore.ieee.org/document/10603423).
+
+To cite this work, please use the following:
+
+```
+@ARTICLE{10603423,
+  author={DeLong, Lauren Nicole and Mir, Ramon Fernández and Fleuriot, Jacques D.},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Neurosymbolic AI for Reasoning Over Knowledge Graphs: A Survey}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-21},
+  keywords={Cognition;Artificial intelligence;Artificial neural networks;Surveys;Taxonomy;Knowledge graphs;Semantics;Graph neural networks (GNNs);hybrid artificial intelligence (AI);knowledge graphs (KGs);neurosymbolic AI;representation learning},
+  doi={10.1109/TNNLS.2024.3420218}}
+```
 
 ## News :newspaper:
 
